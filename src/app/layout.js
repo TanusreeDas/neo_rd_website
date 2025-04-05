@@ -27,7 +27,7 @@ export default function RootLayout({ children }) {
           {children}
         </main>
 
-        <footer className="p-4 bg-[#1DA1F2] text-white text-center">
+        <footer className="p-4 bg-[#003153] text-white text-center">
           <p><a href="#contact-us" className="underline">Contact Sales</a> | <a href="#book-demo" className="underline">Book a Demo</a></p>
         </footer>
 
